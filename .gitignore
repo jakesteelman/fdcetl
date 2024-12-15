@@ -1,0 +1,4 @@
+fdc_data/
+*.zip
+.DS_Store
+.ipynb_checkpoints/
